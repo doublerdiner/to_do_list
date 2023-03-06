@@ -1,5 +1,42 @@
-.App {
-  text-align: center;
+#app {
+  margin: 1rem;
 }
 
+h1{
+  font-weight: bold;
+}
 
+input{
+  padding: .75rem;
+  margin: 0 .5rem;
+  border: 1px solid rgba(128, 128, 128, 0.444);
+}
+
+.text-box{
+  margin-left: 0;
+  width: 20rem;
+}
+
+.button{
+  color: white;
+  background-color: black;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  padding: .75rem;
+  margin: 1rem 0rem;
+  list-style-type: none;
+}
+
+.high{
+  border: 3px solid red;
+  color: red;
+}
+
+.low{
+  border: 3px solid green;
+}
