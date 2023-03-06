@@ -6,6 +6,10 @@ h1{
   font-weight: bold;
 }
 
+nav{
+  display: flex;
+}
+
 input{
   padding: .75rem;
   margin: 0 .5rem;
@@ -39,4 +43,9 @@ li{
 
 .low{
   border: 3px solid green;
+}
+
+button.button{
+  padding: .75rem;
+  border: 0;
 }
